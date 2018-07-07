@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mac/Desktop/remove black screen before splash/myApp/platforms/android/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/mac/Desktop/remove black screen before splash/myApp/platforms/android/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "94,55",
+                        "endColumns": "39,38",
+                        "endOffsets": "129,89"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,95",
+                        "endColumns": "39,38",
+                        "endOffsets": "90,129"
+                    }
+                },
+                {
+                    "source": "/Users/mac/Desktop/remove black screen before splash/myApp/platforms/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "134,198,241",
+                        "endColumns": "63,42,58",
+                        "endOffsets": "193,236,295"
+                    }
+                },
+                {
+                    "source": "/Users/mac/Desktop/remove black screen before splash/myApp/platforms/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "49",
+                        "endLines": "4",
+                        "endColumns": "10",
+                        "endOffsets": "219"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "300",
+                        "endLines": "9",
+                        "endColumns": "10",
+                        "endOffsets": "470"
+                    }
+                }
+            ]
+        }
+    ]
+}

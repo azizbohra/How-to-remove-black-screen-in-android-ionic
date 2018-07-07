@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="gray">#444440</color>
+    <string name="activity_name">@string/launcher_name</string>
+    <string name="app_name">myApp</string>
+    <string name="launcher_name">@string/app_name</string>
+    <style name="SplashTheme" parent="@android:style/Theme.DeviceDefault.NoActionBar">
+    <item name="android:windowBackground">@drawable/background_splash</item>
+  </style>
+</resources>
